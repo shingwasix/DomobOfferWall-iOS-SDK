@@ -5,8 +5,8 @@ Pod::Spec.new do |s|
 	:type => 'Cpoyright', 
 	:text => 'LICENSE  ©2015 Domob, Inc. All rights reserved' 
   }
-  s.summary      = "Domob AD SDK for iOS."
-  s.homepage     = "http://www.domob.cn/developers/changelog/ios_sdk_changelog.html"
+  s.summary      = "Domob Offer Wall SDK for iOS."
+  s.homepage     = "http://www.domob.cn/developers/changelog/iosow_sdk_changelog.html"
   s.author       = { "Shingwa Six" => "http://blog.waaile.com" }
   s.platform     = :ios, "4.3"
   s.source       = { :git => "https://github.com/shingwasix/DomobOfferWall-iOS-SDK.git", :tag => "#{s.version}" }
