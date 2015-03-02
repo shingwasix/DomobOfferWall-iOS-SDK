@@ -15,7 +15,11 @@ iOS 4.3及以上
 
 或
 
-使用[cocospod](http://cocoapods.org/)进行安装,在`podfile`中添加如下代码
+使用[cocoapods](http://cocoapods.org/)进行安装,在`podfile`中添加如下代码
+
+> `pod 'DomobOfferWallSDK'`
+
+或
 
 > `pod 'SS-DomobOfferWallSDK'`
 
